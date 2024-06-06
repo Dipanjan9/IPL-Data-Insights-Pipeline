@@ -1,4 +1,6 @@
 #### IPL-Data-Insights-Pipeline
+![Uploading image.png…]()
+
 # Project Overview
 Welcome to the IPL Data Insights Pipeline project! This project demonstrates the creation of a robust data pipeline that ingests, processes, and visualizes IPL (Indian Premier League) data. The pipeline leverages various technologies including Amazon S3, Databricks, Apache Spark, Hive, and Power BI to provide insightful analytics on IPL matches, players, and teams.
 
