@@ -1,4 +1,4 @@
-## IPL-Data-Insights-Pipeline
+#### IPL-Data-Insights-Pipeline
 # Project Overview
 Welcome to the IPL Data Insights Pipeline project! This project demonstrates the creation of a robust data pipeline that ingests, processes, and visualizes IPL (Indian Premier League) data. The pipeline leverages various technologies including Amazon S3, Databricks, Apache Spark, Hive, and Power BI to provide insightful analytics on IPL matches, players, and teams.
 
@@ -46,7 +46,7 @@ Follow these steps to set up the project on your local environment:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ipl-data-insights-pipeline.git
+git clone https://github.com/Dipanjan9/IPL-Data-Insights-Pipeline
 cd ipl-data-insights-pipeline
 Setup Databricks:
 
